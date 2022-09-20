@@ -1,1 +1,11 @@
 All student list for exam
+
+Present student list
+Pooja
+Priya
+Ankita
+Snehal
+Amit
+Rohan
+Raj
+
